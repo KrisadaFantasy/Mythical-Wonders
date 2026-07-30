@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Atlantis",
+        "type": "NaturalWonder",
+        "culture": 2,
+        "gold": 2,
+        "science": 2,
+        "occursOn": ["Ocean"],
+        "uniques": ["Must be adjacent to [1] to [3] [Coast] tiles",
+            "Must be adjacent to [6] [Water] tiles",
+            "Must be adjacent to [0] [Ice] tiles",
+            "Grants [+500 Gold] to the first civilization to discover it"],
+        "turnsInto": "Ocean",
+        "impassable": true,
+        "unbuildable": true,
+        "weight": 10
+    },
+    {
+        "name": "Mount Olympus",
+        "type": "NaturalWonder",
+        "faith": 5,
+        "culture": 5,
+        "occursOn": ["Plains","Grassland"],
+        "uniques": ["Must be adjacent to [0] [Coast] tiles",
+            "Must be adjacent to [4] to [6] [Elevated] tiles"],
+        "turnsInto": "Mountain",
+        "impassable": true,
+        "unbuildable": true,
+        "weight": 10
+    }
+]
