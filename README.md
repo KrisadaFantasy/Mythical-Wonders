@@ -1,5 +1,5 @@
 # Mythical Wonders
-[Unciv](https://github.com/yairm210/Unciv) mod that add mythical places to Unciv as natural wonders
+[Unciv](https://github.com/yairm210/Unciv) mod that add mythical places to Unciv as natural wonders. This mod provides tile graphic for both **HexaRealm** and **FantasyHex** tileset.
 
 ## Atlantis
 ![Atlantis](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Atlantis.png)
