@@ -1,0 +1,34 @@
+
+game.png
+size: 256, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Atlantis
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mount Olympus
+  rotate: false
+  xy: 148, 56
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Atlantis
+  rotate: false
+  xy: 4, 40
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mount Olympus
+  rotate: false
+  xy: 76, 6
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
