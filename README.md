@@ -7,3 +7,7 @@
 
 ## ![Mount Olympus](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Mount%20Olympus.png) Mount Olympus
 - +5🕊️, +5🎵
+
+## ![Yggdrasil](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Yggdrasil.png) Yggdrasil
+- +3🕊️, +3🎵, +3😀
+- Grants **Sentry** (+1 Sight) to adjacent Military Land units for the rest of the game.
