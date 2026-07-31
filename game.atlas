@@ -13,7 +13,7 @@ TileSets/FantasyHex/Tiles/Atlantis
   index: -1
 TileSets/FantasyHex/Tiles/Mount Olympus
   rotate: false
-  xy: 148, 56
+  xy: 148, 58
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
@@ -21,13 +21,13 @@ TileSets/FantasyHex/Tiles/Mount Olympus
 TileSets/HexaRealm/Tiles/Atlantis
   rotate: false
   xy: 4, 40
-  size: 64, 56
-  orig: 64, 56
+  size: 64, 58
+  orig: 64, 58
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mount Olympus
   rotate: false
-  xy: 76, 6
+  xy: 76, 8
   size: 64, 90
   orig: 64, 90
   offset: 0, 0
