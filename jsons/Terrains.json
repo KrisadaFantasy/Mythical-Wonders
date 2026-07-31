@@ -27,5 +27,21 @@
         "impassable": true,
         "unbuildable": true,
         "weight": 10
+    },
+    {
+        "name": "Yggdrasil",
+        "type": "NaturalWonder",
+        "faith": 3,
+        "culture": 3,
+        "happiness": 3,
+        "occursOn": ["Plains","Grassland"],
+        "uniques": ["Must be adjacent to [0] [Coast] tiles",
+            "Must be adjacent to [4] to [6] [Forest] tiles",
+            "Grants [Sentry] ([[+1] Sight]) to adjacent [{Military} {Land}] units for the rest of the game"],
+        "turnsInto": "Grassland",
+        "impassable": true,
+        "unbuildable": true,
+        "weight": 10
     }
+
 ]

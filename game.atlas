@@ -6,29 +6,43 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Tiles/Atlantis
   rotate: false
-  xy: 4, 4
+  xy: 220, 86
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mount Olympus
   rotate: false
-  xy: 148, 58
+  xy: 220, 38
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Yggdrasil
+  rotate: false
+  xy: 4, 4
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Atlantis
   rotate: false
-  xy: 4, 40
+  xy: 4, 56
   size: 64, 58
   orig: 64, 58
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mount Olympus
   rotate: false
-  xy: 76, 8
+  xy: 76, 24
   size: 64, 90
   orig: 64, 90
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Yggdrasil
+  rotate: false
+  xy: 148, 50
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
