@@ -3,7 +3,7 @@
 
 ## ![Atlantis](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Atlantis.png) Atlantis
 - +2🎵, +2🪙, +2🔬
-- Grants 500🪙 to the first civilization to discover it
+- Grants 100🎵 to any civilization that discover it.
 
 ## ![Mount Olympus](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Mount%20Olympus.png) Mount Olympus
 - +5🕊️, +5🎵
