@@ -5,6 +5,10 @@
 - +2🎵, +2🪙, +2🔬
 - Grants 100🎵 to any civilization that discover it.
 
+## ![Garden of Eden](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Garden%20of%20Eden.png) Garden of Eden
+- +2🕊️, +2🎵
+- Nation that own tile of **Garden of Eden** gain a +2🔬 bonus on **Plantation** tiles.
+
 ## ![Mount Olympus](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Mount%20Olympus.png) Mount Olympus
 - +5🕊️, +5🎵
 
