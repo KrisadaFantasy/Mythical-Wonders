@@ -1,47 +1,61 @@
 
 game.png
-size: 256, 128
+size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Tiles/Atlantis
   rotate: false
-  xy: 220, 86
+  xy: 4, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Garden of Eden
+  rotate: false
+  xy: 292, 62
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Mount Olympus
   rotate: false
-  xy: 220, 38
+  xy: 332, 58
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Yggdrasil
   rotate: false
-  xy: 4, 4
+  xy: 372, 54
   size: 32, 44
   orig: 32, 44
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Atlantis
   rotate: false
-  xy: 4, 56
+  xy: 4, 40
   size: 64, 58
   orig: 64, 58
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Garden of Eden
+  rotate: false
+  xy: 76, 34
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Mount Olympus
   rotate: false
-  xy: 76, 24
+  xy: 148, 8
   size: 64, 90
   orig: 64, 90
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Yggdrasil
   rotate: false
-  xy: 148, 50
+  xy: 220, 34
   size: 64, 64
   orig: 64, 64
   offset: 0, 0

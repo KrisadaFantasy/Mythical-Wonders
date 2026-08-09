@@ -1,5 +1,9 @@
 {
     "name": "Global uniques",
+    "uniques": [
+        "Gain a free [Shrine of Eden] [in all cities] <when number of [Owned [Garden of Eden] Tiles] is more than [0]>",
+        "Remove [Shrine of Eden] [in all cities] <when number of [Owned [Garden of Eden] Tiles] is less than [1]> <upon turn end>"
+    ],
     "unitUniques": [
         "Gain [100] [Culture] <(modified by game speed)> <upon discovering a [Atlantis] tile>"
     ]

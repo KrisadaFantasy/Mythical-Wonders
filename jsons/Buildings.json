@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Shrine of Eden",
+        "maintenance": 0,
+        "uniques": [
+            "[+2 Science] from [Plantation] tiles [in this city]",
+            "Cannot be purchased",
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia"
+        ],
+    }
+]
