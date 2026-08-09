@@ -30,7 +30,7 @@
             "Fresh water",
             "Comment [Nation that own tile of [Garden of Eden] gain a +2[Science] bonus on [Plantation] tiles]"],
         "turnsInto": "Grassland",
-        "impassable": false,
+        "impassable": true,
         "unbuildable": true,
         "weight": 10
     },
