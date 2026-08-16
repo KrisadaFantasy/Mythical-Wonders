@@ -6,10 +6,12 @@
         "gold": 2,
         "science": 2,
         "occursOn": ["Ocean"],
-        "uniques": ["Must be adjacent to [1] to [3] [Coast] tiles",
+        "uniques": [
+            "Must be adjacent to [1] to [3] [Coast] tiles",
             "Must be adjacent to [6] [Water] tiles",
             "Must be adjacent to [0] [Ice] tiles",
-            "Comment [Grants [Culture] to any civilization that discover it]"],
+            "Comment [Grants [Culture] to any civilization that discover it.]"
+        ],
         "turnsInto": "Ocean",
         "impassable": true,
         "unbuildable": true,
@@ -22,13 +24,55 @@
         "culture": 2,
         "overrideStats": true,
         "occursOn": ["Plains","Grassland"],
-        "uniques": ["Must be adjacent to [0] [Water] tiles",
+        "uniques": [
+            "Must be adjacent to [0] [Water] tiles",
             "Must be adjacent to [0] [Desert] tiles",
             "Must be adjacent to [1] to [3] [Elevated] tiles",
             "Must be adjacent to [1] to [3] [Forest] tiles",
             "Occurs on latitudes from [40] to [60] percent of distance equator to pole",
             "Fresh water",
-            "Comment [Nation that own tile of [Garden of Eden] gain a +2[Science] bonus on [Plantation] tiles]"],
+            "Comment [Nation that own tile of [Garden of Eden] gain a +2[Science] bonus on [Plantation] tiles.]"
+        ],
+        "turnsInto": "Grassland",
+        "impassable": true,
+        "unbuildable": true,
+        "weight": 10
+    },
+    {
+        "name": "Garden of Hesperides",
+        "type": "NaturalWonder",
+        "gold": 4,
+        "happiness": 2,
+        "overrideStats": true,
+        "occursOn": ["Plains","Grassland"],
+        "uniques": [
+            "Must be adjacent to [0] [Water] tiles",
+            "Must be adjacent to [0] [Desert] tiles",
+            "Must be adjacent to [1] to [3] [Elevated] tiles",
+            "Must be adjacent to [1] to [3] [Forest] tiles",
+            "Occurs on latitudes from [30] to [70] percent of distance equator to pole",
+            "Fresh water",
+            "Comment [Nation that own tile of [Garden of Hesperides] gain a unique luxury resource [Golden Apple].]"
+        ],
+        "turnsInto": "Grassland",
+        "impassable": true,
+        "unbuildable": true,
+        "weight": 10
+    },
+    {
+        "name": "Heavenly Peach Garden",
+        "type": "NaturalWonder",
+        "culture": 4,
+        "happiness": 2,
+        "overrideStats": true,
+        "occursOn": ["Plains","Grassland"],
+        "uniques": [
+            "Must be adjacent to [0] [Water] tiles",
+            "Must be adjacent to [0] [Desert] tiles",
+            "Neighboring tiles will convert to [Grassland]",
+            "Fresh water",
+            "Comment [+3[Food] and +1[Gold] to adjacent tiles.]"
+        ],
         "turnsInto": "Grassland",
         "impassable": true,
         "unbuildable": true,
@@ -41,8 +85,10 @@
         "culture": 5,
         "overrideStats": true,
         "occursOn": ["Plains","Grassland"],
-        "uniques": ["Must be adjacent to [0] [Water] tiles",
-            "Must be adjacent to [4] to [6] [Elevated] tiles"],
+        "uniques": [
+            "Must be adjacent to [0] [Water] tiles",
+            "Must be adjacent to [4] to [6] [Elevated] tiles"
+        ],
         "turnsInto": "Mountain",
         "impassable": true,
         "unbuildable": true,
@@ -55,10 +101,12 @@
         "culture": 2,
         "happiness": 2,
         "occursOn": ["Plains","Grassland"],
-        "uniques": ["Must be adjacent to [0] [Water] tiles",
+        "uniques": [
+            "Must be adjacent to [0] [Water] tiles",
             "Must be adjacent to [0] [Desert] tiles",
             "Must be adjacent to [2] to [6] [Forest] tiles",
-            "Grants [Sentry] ([[+1] Sight]) to adjacent [{Military} {Land}] units for the rest of the game"],
+            "Grants [Sentry] ([[+1] Sight]) to adjacent [{Military} {Land}] units for the rest of the game"
+        ],
         "turnsInto": "Grassland",
         "impassable": true,
         "unbuildable": true,

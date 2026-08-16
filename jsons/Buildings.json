@@ -9,5 +9,16 @@
             "Unsellable",
             "Will not be displayed in Civilopedia"
         ],
+    },
+    {
+        "name": "Shrine of Hesperides",
+        "cost": 0,
+        "uniques": [
+            "Provides [1] [Golden Apple]",
+            "Cannot be purchased",
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia"
+        ],
     }
 ]

@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Golden Apple",
+        "gold": 2,
+        "resourceType": "Luxury",
+        "uniques": [
+            "Doesn't generate naturally",
+            "Excluded from map editor"
+        ],
+        "civilopediaText": [
+            { "text": "[Golden Apple] is a unique luxury resource obtain by owning the tile of [Garden of Hesperides]." },
+            { "separator": true },
+            {
+                "text": "Unique to [Garden of Hesperides]",
+                "link": "Terrains/Garden of Hesperides"
+            }
+        ]
+    }
+]
