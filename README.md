@@ -9,6 +9,14 @@
 - +2🕊️, +2🎵
 - Nation that own tile of **Garden of Eden** gain a +2🔬 bonus on **Plantation** tiles.
 
+## ![Garden of Hesperides](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Garden%20of%20Hesperides.png) Garden of Hesperides
+- +4🪙, +2😀
+- Nation that own tile of **Garden of Hesperides** gain a unique luxury resource **Golden Apple**.
+
+## ![Heavenly Peach Garden](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Heavenly%20Peach%20Garden.png) Heavenly Peach Garden
+- +4🪙, +2😀
+- +3🍏 and +1🪙 to adjacent tiles.
+
 ## ![Mount Olympus](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Mount%20Olympus.png) Mount Olympus
 - +5🕊️, +5🎵
 
