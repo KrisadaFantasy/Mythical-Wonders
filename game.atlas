@@ -1,61 +1,96 @@
 
 game.png
-size: 512, 128
+size: 256, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+ResourceIcons/Golden Apple
+  rotate: false
+  xy: 4, 149
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Atlantis
   rotate: false
-  xy: 4, 4
+  xy: 4, 15
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Garden of Eden
   rotate: false
-  xy: 292, 62
+  xy: 44, 6
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Garden of Hesperides
+  rotate: false
+  xy: 84, 4
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Heavenly Peach Garden
+  rotate: false
+  xy: 124, 10
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Mount Olympus
   rotate: false
-  xy: 332, 58
+  xy: 148, 65
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Yggdrasil
   rotate: false
-  xy: 372, 54
+  xy: 164, 13
   size: 32, 44
   orig: 32, 44
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Atlantis
   rotate: false
-  xy: 4, 40
+  xy: 112, 191
   size: 64, 58
   orig: 64, 58
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Garden of Eden
   rotate: false
-  xy: 76, 34
+  xy: 184, 185
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Garden of Hesperides
+  rotate: false
+  xy: 112, 122
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Heavenly Peach Garden
+  rotate: false
+  xy: 184, 113
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mount Olympus
   rotate: false
-  xy: 148, 8
+  xy: 4, 51
   size: 64, 90
   orig: 64, 90
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Yggdrasil
   rotate: false
-  xy: 220, 34
+  xy: 76, 50
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
