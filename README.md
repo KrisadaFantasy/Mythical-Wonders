@@ -13,5 +13,5 @@
 - +5🕊️, +5🎵
 
 ## ![Yggdrasil](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Yggdrasil.png) Yggdrasil
-- +3🕊️, +3🎵, +3😀
+- +2🕊️, +2🎵, +2😀
 - Grants **Sentry** (+1 Sight) to adjacent Military Land units for the rest of the game.
