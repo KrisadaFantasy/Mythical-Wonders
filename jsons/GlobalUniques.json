@@ -8,7 +8,9 @@
         "Gain a free [Shrine of Hesperides] [in capital] <when number of [Owned [Garden of Hesperides] Tiles] is more than [0]>",
         "Remove [Shrine of Hesperides] [in capital] <when number of [Owned [Garden of Hesperides] Tiles] is less than [1]> <upon turn end>",
         // Heavenly Peach Garden
-        "[+3 Food, +1 Gold] from every [Grassland] <with [1] to [6] neighboring [Heavenly Peach Garden] tiles>"
+        "[+3 Food, +1 Gold] from every [Grassland] <with [1] to [6] neighboring [Heavenly Peach Garden] tiles>",
+        // Mount Olympus
+        "[+1 Culture] from every [Land] <with [1] to [6] neighboring [Mount Olympus] tiles>"
     ],
     "unitUniques": [
         // Atlantis
