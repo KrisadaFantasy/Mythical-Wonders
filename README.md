@@ -18,7 +18,8 @@
 - +3🍏 and +1🪙 to adjacent tiles.
 
 ## ![Mount Olympus](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Mount%20Olympus.png) Mount Olympus
-- +5🕊️, +5🎵
+- +6🕊️
+- +1🎵 to adjacent hills and +2🎵 to adjacent mountains.
 
 ## ![Yggdrasil](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Yggdrasil.png) Yggdrasil
 - +2🕊️, +2🎵, +2😀
