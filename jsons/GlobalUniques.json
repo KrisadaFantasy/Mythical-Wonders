@@ -10,7 +10,8 @@
         // Heavenly Peach Garden
         "[+3 Food, +1 Gold] from every [Grassland] <with [1] to [6] neighboring [Heavenly Peach Garden] tiles>",
         // Mount Olympus
-        "[+1 Culture] from every [Land] <with [1] to [6] neighboring [Mount Olympus] tiles>"
+        "[+1 Culture] from every [Hill] <with [1] to [6] neighboring [Mount Olympus] tiles>",
+        "[+2 Culture] from every [Mountain] <with [1] to [6] neighboring [Mount Olympus] tiles>"
     ],
     "unitUniques": [
         // Atlantis
