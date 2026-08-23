@@ -87,7 +87,7 @@
         "uniques": [
             "Must be adjacent to [0] [Water] tiles",
             "Must be adjacent to [4] to [6] [Elevated] tiles",
-            "Comment [+1[Culture] to adjacent tiles.]"
+            "Comment [+1[Culture] to adjacent hills and +2[Culture] to adjacent mountains.]"
         ],
         "turnsInto": "Mountain",
         "impassable": true,
