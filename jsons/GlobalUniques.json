@@ -12,6 +12,9 @@
         // Mount Olympus
         "[+1 Culture] from every [Hill] <with [1] to [6] neighboring [Mount Olympus] tiles>",
         "[+2 Culture] from every [Mountain] <with [1] to [6] neighboring [Mount Olympus] tiles>"
+        // Penglai
+        "Gain a free [Shrine of Penglai] [in capital] <when number of [Owned [Penglai] Tiles] is more than [0]>",
+        "Remove [Shrine of Penglai] [in capital] <when number of [Owned [Penglai] Tiles] is less than [1]> <upon turn end>",
     ],
     "unitUniques": [
         // Atlantis

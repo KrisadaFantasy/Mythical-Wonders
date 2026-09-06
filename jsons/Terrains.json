@@ -95,6 +95,26 @@
         "weight": 10
     },
     {
+        "name": "Penglai",
+        "type": "NaturalWonder",
+        "faith": 2,
+        "culture": 2,
+        "overrideStats": true,
+        "occursOn": ["Ocean"],
+        "uniques": [
+            "Must be adjacent to [1] to [3] [Coast] tiles",
+            "Must be adjacent to [6] [Water] tiles",
+            "Must be adjacent to [0] [Ice] tiles",
+            "Neighboring tiles will convert to [Coast] <in tiles without [Coast]>",
+            "Occurs on latitudes from [0] to [60] percent of distance equator to pole",
+            "Comment [Nation that own tile of [Penglai] has its new Land Military units start with [March] ([heal every turn, even if it performs an action]) when train in the capital.]"
+        ],
+        "turnsInto": "Coast",
+        "impassable": true,
+        "unbuildable": true,
+        "weight": 10
+    },
+    {
         "name": "Yggdrasil",
         "type": "NaturalWonder",
         "faith": 2,

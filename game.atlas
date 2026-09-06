@@ -1,96 +1,110 @@
 
 game.png
-size: 256, 256
+size: 1024, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 ResourceIcons/Golden Apple
   rotate: false
-  xy: 4, 149
+  xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Atlantis
   rotate: false
-  xy: 4, 15
+  xy: 112, 10
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Garden of Eden
   rotate: false
-  xy: 44, 6
+  xy: 616, 68
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Garden of Hesperides
   rotate: false
-  xy: 84, 4
+  xy: 656, 66
   size: 32, 38
   orig: 32, 38
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Heavenly Peach Garden
   rotate: false
-  xy: 124, 10
+  xy: 696, 72
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mount Olympus
   rotate: false
-  xy: 148, 65
+  xy: 736, 64
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Penglai
+  rotate: false
+  xy: 776, 51
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Yggdrasil
   rotate: false
-  xy: 164, 13
+  xy: 816, 60
   size: 32, 44
   orig: 32, 44
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Atlantis
   rotate: false
-  xy: 112, 191
+  xy: 112, 46
   size: 64, 58
   orig: 64, 58
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Garden of Eden
   rotate: false
-  xy: 184, 185
+  xy: 184, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Garden of Hesperides
   rotate: false
-  xy: 112, 122
+  xy: 256, 43
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Heavenly Peach Garden
   rotate: false
-  xy: 184, 113
+  xy: 328, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mount Olympus
   rotate: false
-  xy: 4, 51
+  xy: 400, 14
   size: 64, 90
   orig: 64, 90
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Penglai
+  rotate: false
+  xy: 472, 8
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Yggdrasil
   rotate: false
-  xy: 76, 50
+  xy: 544, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0

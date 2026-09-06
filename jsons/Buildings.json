@@ -20,5 +20,17 @@
             "Unsellable",
             "Will not be displayed in Civilopedia"
         ],
+    },
+    {
+        "name": "Shrine of Penglai",
+        "cost": 0,
+        "uniques": [
+            "All newly-trained [{Land} {Military}] units [in this city] receive the [March] promotion",
+            "Cannot be purchased",
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia"
+        ],
     }
+
 ]
