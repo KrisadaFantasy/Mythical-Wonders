@@ -21,6 +21,10 @@
 - +6🕊️
 - +1🎵 to adjacent hills and +2🎵 to adjacent mountains.
 
+## ![Penglai](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Penglai.png) Penglai
+- +2🕊️, +2🎵
+- Nation that own tile of **Penglai** has its new Land Military units start with **March** (heal every turn, even if it performs an action) when train in the capital.
+- 
 ## ![Yggdrasil](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Yggdrasil.png) Yggdrasil
 - +2🕊️, +2🎵, +2😀
 - Grants **Sentry** (+1 Sight) to adjacent Military Land units for the rest of the game.
