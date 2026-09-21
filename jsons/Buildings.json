@@ -22,6 +22,18 @@
         ],
     },
     {
+        "name": "Shrine of Hyperborea",
+        "cost": 0,
+        "uniques": [
+            "[+1 Food] from [Tundra] tiles [in this city]",
+            "[+1 Food] from [Snow] tiles [in this city]",
+            "Cannot be purchased",
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia"
+        ],
+    },
+    {
         "name": "Shrine of Penglai",
         "cost": 0,
         "uniques": [

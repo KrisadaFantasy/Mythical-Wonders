@@ -79,6 +79,25 @@
         "weight": 10
     },
     {
+        "name": "Hyperborea",
+        "type": "NaturalWonder",
+        "food": 4,
+        "culture": 2,
+        "happiness": 2,
+        "overrideStats": true,
+        "occursOn": ["Snow","Tundra"],
+        "uniques": [
+            "Must be adjacent to [0] [Water] tiles",
+            "Neighboring tiles will convert to [Mountain] <in tiles without [Mountain]>",
+            "Occurs on latitudes from [70] to [100] percent of distance equator to pole",
+            "Comment [Nation that own tile of [Hyperborea] gain +1[Food] from [Tundra] and [Snow] tiles around their cities.]"
+        ],
+        "turnsInto": "Grassland",
+        "impassable": true,
+        "unbuildable": true,
+        "weight": 10
+    },
+    {
         "name": "Mount Olympus",
         "type": "NaturalWonder",
         "faith": 6,
