@@ -17,9 +17,17 @@
 - +4🪙, +2😀
 - +3🍏 and +1🪙 to adjacent tiles.
 
+## ![Hyperborea](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Hyperborea.png) Hyperborea
+- +4🍏, +2🎵, +2😀
+- Nation that own tile of **Hyperborea** gain +1🍏 from Tundra and Snow tiles around their cities.
+
 ## ![Mount Olympus](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Mount%20Olympus.png) Mount Olympus
 - +6🕊️
 - +1🎵 to adjacent hills and +2🎵 to adjacent mountains.
+
+## ![Penglai](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Penglai.png) Penglai
+- +2🕊️, +2🎵
+- Nation that own tile of **Penglai** has its new Land Military units start with **March** (heal every turn, even if it performs an action) when train in the capital.
 
 ## ![Yggdrasil](https://github.com/KrisadaFantasy/Unciv-Mythical-Wonders/blob/main/Images/TileSets/HexaRealm/Tiles/Yggdrasil.png) Yggdrasil
 - +2🕊️, +2🎵, +2😀

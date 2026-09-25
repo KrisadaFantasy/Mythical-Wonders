@@ -9,9 +9,15 @@
         "Remove [Shrine of Hesperides] [in capital] <when number of [Owned [Garden of Hesperides] Tiles] is less than [1]> <upon turn end>",
         // Heavenly Peach Garden
         "[+3 Food, +1 Gold] from every [Grassland] <with [1] to [6] neighboring [Heavenly Peach Garden] tiles>",
+        // Hyperborea
+        "Gain a free [Shrine of Hyperborea] [in all cities] <when number of [Owned [Hyperborea] Tiles] is more than [0]>",
+        "Remove [Shrine of Hyperborea] [in all cities] <when number of [Owned [Hyperborea] Tiles] is less than [1]> <upon turn end>",
         // Mount Olympus
         "[+1 Culture] from every [Hill] <with [1] to [6] neighboring [Mount Olympus] tiles>",
         "[+2 Culture] from every [Mountain] <with [1] to [6] neighboring [Mount Olympus] tiles>"
+        // Penglai
+        "Gain a free [Shrine of Penglai] [in capital] <when number of [Owned [Penglai] Tiles] is more than [0]>",
+        "Remove [Shrine of Penglai] [in capital] <when number of [Owned [Penglai] Tiles] is less than [1]> <upon turn end>",
     ],
     "unitUniques": [
         // Atlantis

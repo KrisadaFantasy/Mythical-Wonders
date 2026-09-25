@@ -1,96 +1,124 @@
 
 game.png
-size: 256, 256
+size: 1024, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 ResourceIcons/Golden Apple
   rotate: false
-  xy: 4, 149
+  xy: 4, 6
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Atlantis
   rotate: false
-  xy: 4, 15
+  xy: 112, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Garden of Eden
   rotate: false
-  xy: 44, 6
+  xy: 688, 70
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Garden of Hesperides
   rotate: false
-  xy: 84, 4
+  xy: 728, 68
   size: 32, 38
   orig: 32, 38
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Heavenly Peach Garden
   rotate: false
-  xy: 124, 10
+  xy: 768, 74
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Hyperborea
+  rotate: false
+  xy: 808, 70
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Mount Olympus
   rotate: false
-  xy: 148, 65
-  size: 32, 40
-  orig: 32, 40
+  xy: 848, 60
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Penglai
+  rotate: false
+  xy: 888, 53
+  size: 32, 53
+  orig: 32, 53
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Yggdrasil
   rotate: false
-  xy: 164, 13
+  xy: 928, 62
   size: 32, 44
   orig: 32, 44
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Atlantis
   rotate: false
-  xy: 112, 191
+  xy: 112, 48
   size: 64, 58
   orig: 64, 58
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Garden of Eden
   rotate: false
-  xy: 184, 185
+  xy: 184, 42
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Garden of Hesperides
   rotate: false
-  xy: 112, 122
+  xy: 256, 45
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Heavenly Peach Garden
   rotate: false
-  xy: 184, 113
+  xy: 328, 42
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Hyperborea
+  rotate: false
+  xy: 400, 42
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mount Olympus
   rotate: false
-  xy: 4, 51
+  xy: 472, 16
   size: 64, 90
   orig: 64, 90
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Penglai
+  rotate: false
+  xy: 544, 4
+  size: 64, 102
+  orig: 64, 102
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Yggdrasil
   rotate: false
-  xy: 76, 50
+  xy: 616, 42
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
